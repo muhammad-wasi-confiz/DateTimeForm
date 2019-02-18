@@ -1,6 +1,7 @@
 flows:
   default:
   - form: myForm
+  - log: ${myForm}
   
 forms:
   myForm:
