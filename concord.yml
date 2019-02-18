@@ -5,4 +5,4 @@ flows:
 forms:
   myForm:
   - date: { type: "date" }
-  - dateTime: { type: "dateTime", value: "20019-02-02T22:00:00" }
+  - dateTime: { type: "dateTime", value: "2019-02-02T22:00:00" }
