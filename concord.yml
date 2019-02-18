@@ -1,3 +1,7 @@
+flows:
+  default:
+  - form: myForm
+  
 forms:
   myForm:
   - date: { type: "date" }
