@@ -1,8 +1,7 @@
 flows:
   default:
   - form: myForm
-  - log: 'Date: ${myForm.date}'
-  - log: 'DateTime: ${myForm.dateTime}'
+  - log: '${myForm}'
   
 forms:
   myForm:
